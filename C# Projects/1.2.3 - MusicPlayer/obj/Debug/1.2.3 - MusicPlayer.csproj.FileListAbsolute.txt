@@ -1,0 +1,10 @@
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\pcs2---assignments-master\1.2.3 - MusicPlayer\bin\Debug\1.2.3 - MusicPlayer.exe.config
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\pcs2---assignments-master\1.2.3 - MusicPlayer\bin\Debug\1.2.3 - MusicPlayer.exe
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\pcs2---assignments-master\1.2.3 - MusicPlayer\bin\Debug\1.2.3 - MusicPlayer.pdb
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\pcs2---assignments-master\1.2.3 - MusicPlayer\obj\Debug\1.2.3 - MusicPlayer.csprojAssemblyReference.cache
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\pcs2---assignments-master\1.2.3 - MusicPlayer\obj\Debug\_1._2._3___MusicPlayer.Form1.resources
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\pcs2---assignments-master\1.2.3 - MusicPlayer\obj\Debug\_1._2._3___MusicPlayer.Properties.Resources.resources
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\pcs2---assignments-master\1.2.3 - MusicPlayer\obj\Debug\1.2.3 - MusicPlayer.csproj.GenerateResource.cache
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\pcs2---assignments-master\1.2.3 - MusicPlayer\obj\Debug\1.2.3 - MusicPlayer.csproj.CoreCompileInputs.cache
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\pcs2---assignments-master\1.2.3 - MusicPlayer\obj\Debug\1.2.3 - MusicPlayer.exe
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\pcs2---assignments-master\1.2.3 - MusicPlayer\obj\Debug\1.2.3 - MusicPlayer.pdb

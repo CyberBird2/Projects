@@ -1,0 +1,94 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
+<table class="headerTable">
+  <div class="title">
+    <h2>Employees</h2>
+  </div>
+  <td>
+    <div class="form-group has-feedback has-search" style="margin-top: 15px;">
+      <span class="glyphicon glyphicon-search form-control-feedback"></span>
+      <input class="form-control" type="text" name="search" [(ngModel)]="searchText" autocomplete="off" placeholder="Searching employees by name"/>
+    </div>
+  </td>
+</table>
+<!--Display the list of employee -->
+<!--  Table-->
+
+<table class="table">
+  <thead>
+  <tr>
+      <th scope="col">#</th>
+      <th scope="col">First Name</th>
+      <th scope="col">Last Name</th>
+      <th scope="col">Gender</th>
+      <th scope="col">Birthdate</th>
+      <th scope="col">Email</th>
+      <th scope="col">Details</th>
+
+  </tr>
+
+  </thead>
+
+  <tbody *ngFor="let employee of employees | filter: searchText">
+      <th class="row-table" scope="row">{{employee.id}}</th>
+      <th class="row-table" scope="row">{{employee.first_name}}</th>
+      <th class="row-table" scope="row">{{employee.last_name}}</th>
+      <th class="row-table" scope="row">{{employee.gender}}</th>
+      <th class="row-table" scope="row">{{employee.birthdate}}</th>
+      <th class="row-table" scope="row">{{employee.email}}</th>
+      <td class="row-table"> <button class="btn btn-light btn-outline-dark" data-toggle="modal" data-target="#employeeDetial"
+                                     [class.selected]="employee === currentEmployee"
+                                     (click)="getEmployee(employee.id)"> Details</button>
+      </td>
+  </tbody>
+
+</table>
+
+
+<!--detail (update and delete employee-->
+
+<div style="width: 400px; margin: auto;">
+  <div *ngIf="currentEmployee" class="edit-form">
+    <form>
+      <div class="form-group">
+        <label for="first_name">First Name</label>
+        <input type="text" class="form-control" id="first_name"
+          [(ngModel)]="currentEmployee.first_name" name="first_name"/>
+      </div>
+
+      <div class="form-group">
+        <label for="last_name">Last Name</label>
+        <input type="text" class="form-control" id="last_name"
+          [(ngModel)]="currentEmployee.last_name" name="last_name"/>
+      </div>
+
+      <div class="form-group">
+        <label for="gender">Gender</label>
+        <input type="text" class="form-control" id="gender"
+          [(ngModel)]="currentEmployee.gender" name="gender"/>
+      </div>
+
+      <div class="form-group">
+        <label for="birthdate">Birthdate</label>
+        <input type="text" class="form-control" id="birthdate"
+          [(ngModel)]="currentEmployee.birthdate" name="birthdate"/>
+      </div>
+
+      <div class="form-group">
+        <label for="email">Email</label>
+        <input type="text" class="form-control" id="email"
+          [(ngModel)]="currentEmployee.email" name="email"/>
+      </div>
+
+    </form>
+
+    <button class="badge badge-danger mr-2" (click)="deleteEmployee()">
+      Delete
+    </button>
+
+    <button type="submit" class="badge badge-success"
+      (click)="updateEmployee()">Update </button>
+    <p>{{ message }}</p>
+  </div>
+
+</div>

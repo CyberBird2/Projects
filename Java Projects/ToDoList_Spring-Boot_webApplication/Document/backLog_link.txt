@@ -1,0 +1,6 @@
+Notice for a backLog File and project plan
+
+ - You can find the project plan in the wiki file. In addition, i uploeded the project plan as a pdf file in Git in Document. 
+
+- BackLog - link for MainPage - https://wondi.backlog.com/board/TODO
+- BackLog - link for ProjectPlan - https://wondi.backlog.com/wiki/TODO/Project+Plan

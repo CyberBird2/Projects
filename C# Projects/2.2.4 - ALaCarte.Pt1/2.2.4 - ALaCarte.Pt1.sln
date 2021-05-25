@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.2.4 - ALaCarte.Pt1", "2.2.4 - ALaCarte.Pt1.csproj", "{731B3F6E-4F3A-4A02-B3D7-C3F4FC1AD426}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{731B3F6E-4F3A-4A02-B3D7-C3F4FC1AD426}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{731B3F6E-4F3A-4A02-B3D7-C3F4FC1AD426}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{731B3F6E-4F3A-4A02-B3D7-C3F4FC1AD426}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{731B3F6E-4F3A-4A02-B3D7-C3F4FC1AD426}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E678C51-EAD8-44E6-A0A8-F9A80E517BCA}
+	EndGlobalSection
+EndGlobal

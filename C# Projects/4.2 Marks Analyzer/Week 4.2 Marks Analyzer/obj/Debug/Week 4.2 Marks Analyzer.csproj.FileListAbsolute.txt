@@ -1,0 +1,10 @@
+C:\Users\Bilal Aktas\Desktop\Fontys Subjects\Semester2\PCS3\Assignments\Week 4.2 Marks Analyzer\Week 4.2 Marks Analyzer\bin\Debug\Week 4.2 Marks Analyzer.exe.config
+C:\Users\Bilal Aktas\Desktop\Fontys Subjects\Semester2\PCS3\Assignments\Week 4.2 Marks Analyzer\Week 4.2 Marks Analyzer\bin\Debug\Week 4.2 Marks Analyzer.exe
+C:\Users\Bilal Aktas\Desktop\Fontys Subjects\Semester2\PCS3\Assignments\Week 4.2 Marks Analyzer\Week 4.2 Marks Analyzer\bin\Debug\Week 4.2 Marks Analyzer.pdb
+C:\Users\Bilal Aktas\Desktop\Fontys Subjects\Semester2\PCS3\Assignments\Week 4.2 Marks Analyzer\Week 4.2 Marks Analyzer\obj\Debug\Week 4.2 Marks Analyzer.csprojAssemblyReference.cache
+C:\Users\Bilal Aktas\Desktop\Fontys Subjects\Semester2\PCS3\Assignments\Week 4.2 Marks Analyzer\Week 4.2 Marks Analyzer\obj\Debug\Week_4._2_Marks_Analyzer.Form1.resources
+C:\Users\Bilal Aktas\Desktop\Fontys Subjects\Semester2\PCS3\Assignments\Week 4.2 Marks Analyzer\Week 4.2 Marks Analyzer\obj\Debug\Week_4._2_Marks_Analyzer.Properties.Resources.resources
+C:\Users\Bilal Aktas\Desktop\Fontys Subjects\Semester2\PCS3\Assignments\Week 4.2 Marks Analyzer\Week 4.2 Marks Analyzer\obj\Debug\Week 4.2 Marks Analyzer.csproj.GenerateResource.cache
+C:\Users\Bilal Aktas\Desktop\Fontys Subjects\Semester2\PCS3\Assignments\Week 4.2 Marks Analyzer\Week 4.2 Marks Analyzer\obj\Debug\Week 4.2 Marks Analyzer.csproj.CoreCompileInputs.cache
+C:\Users\Bilal Aktas\Desktop\Fontys Subjects\Semester2\PCS3\Assignments\Week 4.2 Marks Analyzer\Week 4.2 Marks Analyzer\obj\Debug\Week 4.2 Marks Analyzer.exe
+C:\Users\Bilal Aktas\Desktop\Fontys Subjects\Semester2\PCS3\Assignments\Week 4.2 Marks Analyzer\Week 4.2 Marks Analyzer\obj\Debug\Week 4.2 Marks Analyzer.pdb

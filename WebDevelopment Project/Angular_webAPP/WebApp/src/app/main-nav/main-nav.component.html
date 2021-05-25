@@ -1,0 +1,46 @@
+<div [ngClass]="{'dark-theme': isDarkTheme | async}">
+  <mat-sidenav-container class="sidenav-container">
+    <mat-sidenav #drawer class="sidenav" fixedInViewport
+        [attr.role]="(isHandset$ | async) ? 'dialog' : 'navigation'"
+        [mode]="(isHandset$ | async) ? 'over' : 'side'"
+        [opened]="(isHandset$ | async) === false">        
+      <mat-nav-list>          
+        <br><br><br>          
+        <a mat-list-item routerLink="/dashboard"> <mat-icon class="example-icon" >home</mat-icon>  Dashboard</a>
+        <br>
+        <a mat-list-item routerLink="/departments"> <mat-icon class="example-icon" >domain</mat-icon> Departments</a>
+        <br>
+        <a mat-list-item routerLink="/employees">  <mat-icon class="example-icon" >group</mat-icon> Employees</a>
+        <br>
+        <a mat-list-item routerLink="/tasks">  <mat-icon class="example-icon" >check_box</mat-icon> Tasks</a>          
+      </mat-nav-list>
+    </mat-sidenav> 
+    <mat-sidenav-content>
+      
+      <mat-toolbar color="primary">
+        <button
+          type="button"
+          aria-label="Toggle sidenav"
+          mat-icon-button
+          (click)="drawer.toggle()"
+          *ngIf="isHandset$ | async">
+          <mat-icon aria-label="Side nav toggle icon">menu</mat-icon>
+        </button>
+        <span>Sigma Management</span>
+        <span class="example-spacer"></span>
+
+        <mat-icon class="example-icon">wb_sunny</mat-icon> 
+        <mat-slide-toggle [checked]="isDarkTheme | async" (change)="toggleDarkTheme($event.checked)"></mat-slide-toggle>
+        <mat-icon class="example-icon" >nights_stay</mat-icon>   
+
+      </mat-toolbar>        
+      <router-outlet></router-outlet>
+    </mat-sidenav-content>  
+  </mat-sidenav-container>         
+
+    
+
+
+
+
+</div>

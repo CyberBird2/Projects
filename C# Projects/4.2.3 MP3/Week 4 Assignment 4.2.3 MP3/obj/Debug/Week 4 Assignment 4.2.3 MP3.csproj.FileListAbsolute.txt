@@ -1,0 +1,10 @@
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\Week 4 Assignment 4.2.3 MP3\Week 4 Assignment 4.2.3 MP3\bin\Debug\Week 4 Assignment 4.2.3 MP3.exe.config
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\Week 4 Assignment 4.2.3 MP3\Week 4 Assignment 4.2.3 MP3\bin\Debug\Week 4 Assignment 4.2.3 MP3.exe
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\Week 4 Assignment 4.2.3 MP3\Week 4 Assignment 4.2.3 MP3\bin\Debug\Week 4 Assignment 4.2.3 MP3.pdb
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\Week 4 Assignment 4.2.3 MP3\Week 4 Assignment 4.2.3 MP3\obj\Debug\Week 4 Assignment 4.2.3 MP3.csprojAssemblyReference.cache
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\Week 4 Assignment 4.2.3 MP3\Week 4 Assignment 4.2.3 MP3\obj\Debug\Week_4_Assignment_4._2._3_MP3.Form1.resources
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\Week 4 Assignment 4.2.3 MP3\Week 4 Assignment 4.2.3 MP3\obj\Debug\Week_4_Assignment_4._2._3_MP3.Properties.Resources.resources
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\Week 4 Assignment 4.2.3 MP3\Week 4 Assignment 4.2.3 MP3\obj\Debug\Week 4 Assignment 4.2.3 MP3.csproj.GenerateResource.cache
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\Week 4 Assignment 4.2.3 MP3\Week 4 Assignment 4.2.3 MP3\obj\Debug\Week 4 Assignment 4.2.3 MP3.csproj.CoreCompileInputs.cache
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\Week 4 Assignment 4.2.3 MP3\Week 4 Assignment 4.2.3 MP3\obj\Debug\Week 4 Assignment 4.2.3 MP3.exe
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\Week 4 Assignment 4.2.3 MP3\Week 4 Assignment 4.2.3 MP3\obj\Debug\Week 4 Assignment 4.2.3 MP3.pdb

@@ -1,0 +1,10 @@
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\Week 3 Assignment 3.2.5 Project2\Week 3 Assignment 3.2.5 Project2\bin\Debug\Week 3 Assignment 3.2.5 Project2.exe.config
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\Week 3 Assignment 3.2.5 Project2\Week 3 Assignment 3.2.5 Project2\bin\Debug\Week 3 Assignment 3.2.5 Project2.exe
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\Week 3 Assignment 3.2.5 Project2\Week 3 Assignment 3.2.5 Project2\bin\Debug\Week 3 Assignment 3.2.5 Project2.pdb
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\Week 3 Assignment 3.2.5 Project2\Week 3 Assignment 3.2.5 Project2\obj\Debug\Week 3 Assignment 3.2.5 Project2.csprojAssemblyReference.cache
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\Week 3 Assignment 3.2.5 Project2\Week 3 Assignment 3.2.5 Project2\obj\Debug\Week_3_Assignment_3._2._5_Project2.Form1.resources
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\Week 3 Assignment 3.2.5 Project2\Week 3 Assignment 3.2.5 Project2\obj\Debug\Week_3_Assignment_3._2._5_Project2.Properties.Resources.resources
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\Week 3 Assignment 3.2.5 Project2\Week 3 Assignment 3.2.5 Project2\obj\Debug\Week 3 Assignment 3.2.5 Project2.csproj.GenerateResource.cache
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\Week 3 Assignment 3.2.5 Project2\Week 3 Assignment 3.2.5 Project2\obj\Debug\Week 3 Assignment 3.2.5 Project2.csproj.CoreCompileInputs.cache
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\Week 3 Assignment 3.2.5 Project2\Week 3 Assignment 3.2.5 Project2\obj\Debug\Week 3 Assignment 3.2.5 Project2.exe
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\Week 3 Assignment 3.2.5 Project2\Week 3 Assignment 3.2.5 Project2\obj\Debug\Week 3 Assignment 3.2.5 Project2.pdb

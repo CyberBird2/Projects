@@ -1,0 +1,59 @@
+
+
+      <mat-card>
+        <mat-card-title>Tasks</mat-card-title>
+        <mat-card-content>
+          <button mat-button (click)="openDialog('Add',{})" mat-flat-button color="primary">Add Row</button>
+          <input type="text" style="float:right" (keyup)="applyFilter($event.target.value)" placeholder="search for" class="form-control-sm top-margin">
+    
+        <table mat-table [dataSource]="dataSource" >
+         
+              
+          <ng-container matColumnDef="ID">
+            <th mat-header-cell *matHeaderCellDef> ID </th>
+            <td mat-cell *matCellDef="let task"> {{task.task_id}} </td>
+          </ng-container>
+        
+         
+          <ng-container matColumnDef="ToDo">
+            <th mat-header-cell *matHeaderCellDef> ToDo </th>
+            <td mat-cell *matCellDef="let task"> {{task.title}} </td>
+          </ng-container>
+        
+          
+          <ng-container matColumnDef="Deadline">
+            <th mat-header-cell *matHeaderCellDef> Deadline </th>
+            <td mat-cell *matCellDef="let task">{{task.deadline |  date:"dd/MMMM/yy" }} </td>
+          </ng-container>
+        
+          
+          <ng-container matColumnDef="Department">
+            <th mat-header-cell *matHeaderCellDef> Department </th>
+            <td mat-cell *matCellDef="let task">{{task.TaskDepartment.name}} </td>
+          </ng-container>
+    
+          <ng-container matColumnDef="Employees">
+            <th mat-header-cell *matHeaderCellDef> Employees </th>
+            <td mat-cell *matCellDef="let task">{{getEmp(task)}} </td>
+          </ng-container>
+
+          <!-- Action Column -->
+          <ng-container matColumnDef="action">
+            <th mat-header-cell *matHeaderCellDef> Action </th>
+            <td mat-cell *matCellDef="let task" class="action-link"> 
+              <a (click)="openDialog('Update',task)">Edit</a> | 
+              <a (click)="openDialog('Delete',task)">Delete</a>  
+            </td>
+          </ng-container>          
+        
+          <tr mat-header-row *matHeaderRowDef="displayedColumns" ></tr>
+          <tr mat-row class="selectedTaskRow" *matRowDef="let task; columns: displayedColumns;"></tr>
+          
+          
+        </table>
+                              
+        </mat-card-content>
+      </mat-card>
+      
+  
+    

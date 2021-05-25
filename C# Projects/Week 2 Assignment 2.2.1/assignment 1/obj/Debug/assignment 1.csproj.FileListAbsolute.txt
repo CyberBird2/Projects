@@ -1,0 +1,50 @@
+C:\Users\rlarm\Documents\At Home Work PC\English Stream\BLOCK 2\PCS2\Assignments\WEEK 2\assignment 1\assignment 1\bin\Debug\assignment 1.exe.config
+C:\Users\rlarm\Documents\At Home Work PC\English Stream\BLOCK 2\PCS2\Assignments\WEEK 2\assignment 1\assignment 1\bin\Debug\assignment 1.exe
+C:\Users\rlarm\Documents\At Home Work PC\English Stream\BLOCK 2\PCS2\Assignments\WEEK 2\assignment 1\assignment 1\bin\Debug\assignment 1.pdb
+C:\Users\rlarm\Documents\At Home Work PC\English Stream\BLOCK 2\PCS2\Assignments\WEEK 2\assignment 1\assignment 1\obj\Debug\assignment 1.csprojAssemblyReference.cache
+C:\Users\rlarm\Documents\At Home Work PC\English Stream\BLOCK 2\PCS2\Assignments\WEEK 2\assignment 1\assignment 1\obj\Debug\assignment_1.Form1.resources
+C:\Users\rlarm\Documents\At Home Work PC\English Stream\BLOCK 2\PCS2\Assignments\WEEK 2\assignment 1\assignment 1\obj\Debug\assignment_1.Properties.Resources.resources
+C:\Users\rlarm\Documents\At Home Work PC\English Stream\BLOCK 2\PCS2\Assignments\WEEK 2\assignment 1\assignment 1\obj\Debug\assignment 1.csproj.GenerateResource.cache
+C:\Users\rlarm\Documents\At Home Work PC\English Stream\BLOCK 2\PCS2\Assignments\WEEK 2\assignment 1\assignment 1\obj\Debug\assignment 1.csproj.CoreCompileInputs.cache
+C:\Users\rlarm\Documents\At Home Work PC\English Stream\BLOCK 2\PCS2\Assignments\WEEK 2\assignment 1\assignment 1\obj\Debug\assignment 1.exe
+C:\Users\rlarm\Documents\At Home Work PC\English Stream\BLOCK 2\PCS2\Assignments\WEEK 2\assignment 1\assignment 1\obj\Debug\assignment 1.pdb
+C:\Users\ralar\Desktop\uFly Assignment\assignment 1\assignment 1\bin\Debug\assignment 1.exe.config
+C:\Users\ralar\Desktop\uFly Assignment\assignment 1\assignment 1\bin\Debug\assignment 1.exe
+C:\Users\ralar\Desktop\uFly Assignment\assignment 1\assignment 1\bin\Debug\assignment 1.pdb
+C:\Users\ralar\Desktop\uFly Assignment\assignment 1\assignment 1\obj\Debug\assignment 1.csprojAssemblyReference.cache
+C:\Users\ralar\Desktop\uFly Assignment\assignment 1\assignment 1\obj\Debug\assignment_1.Form1.resources
+C:\Users\ralar\Desktop\uFly Assignment\assignment 1\assignment 1\obj\Debug\assignment_1.Properties.Resources.resources
+C:\Users\ralar\Desktop\uFly Assignment\assignment 1\assignment 1\obj\Debug\assignment 1.csproj.GenerateResource.cache
+C:\Users\ralar\Desktop\uFly Assignment\assignment 1\assignment 1\obj\Debug\assignment 1.csproj.CoreCompileInputs.cache
+C:\Users\ralar\Desktop\uFly Assignment\assignment 1\assignment 1\obj\Debug\assignment 1.exe
+C:\Users\ralar\Desktop\uFly Assignment\assignment 1\assignment 1\obj\Debug\assignment 1.pdb
+C:\Users\Bilal Aktas\Desktop\assignment 1\assignment 1\bin\Debug\assignment 1.exe.config
+C:\Users\Bilal Aktas\Desktop\assignment 1\assignment 1\bin\Debug\assignment 1.exe
+C:\Users\Bilal Aktas\Desktop\assignment 1\assignment 1\bin\Debug\assignment 1.pdb
+C:\Users\Bilal Aktas\Desktop\assignment 1\assignment 1\obj\Debug\assignment 1.csprojAssemblyReference.cache
+C:\Users\Bilal Aktas\Desktop\assignment 1\assignment 1\obj\Debug\assignment_1.Form1.resources
+C:\Users\Bilal Aktas\Desktop\assignment 1\assignment 1\obj\Debug\assignment_1.Properties.Resources.resources
+C:\Users\Bilal Aktas\Desktop\assignment 1\assignment 1\obj\Debug\assignment 1.csproj.GenerateResource.cache
+C:\Users\Bilal Aktas\Desktop\assignment 1\assignment 1\obj\Debug\assignment 1.csproj.CoreCompileInputs.cache
+C:\Users\Bilal Aktas\Desktop\assignment 1\assignment 1\obj\Debug\assignment 1.exe
+C:\Users\Bilal Aktas\Desktop\assignment 1\assignment 1\obj\Debug\assignment 1.pdb
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\Week 2 Assignment 2.2.1\assignment 1\bin\Debug\assignment 1.exe.config
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\Week 2 Assignment 2.2.1\assignment 1\bin\Debug\assignment 1.exe
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\Week 2 Assignment 2.2.1\assignment 1\bin\Debug\assignment 1.pdb
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\Week 2 Assignment 2.2.1\assignment 1\obj\Debug\assignment 1.csprojAssemblyReference.cache
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\Week 2 Assignment 2.2.1\assignment 1\obj\Debug\assignment_1.Form1.resources
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\Week 2 Assignment 2.2.1\assignment 1\obj\Debug\assignment_1.Properties.Resources.resources
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\Week 2 Assignment 2.2.1\assignment 1\obj\Debug\assignment 1.csproj.GenerateResource.cache
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\Week 2 Assignment 2.2.1\assignment 1\obj\Debug\assignment 1.csproj.CoreCompileInputs.cache
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\Week 2 Assignment 2.2.1\assignment 1\obj\Debug\assignment 1.exe
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\Week 2 Assignment 2.2.1\assignment 1\obj\Debug\assignment 1.pdb
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\Semester1\PCS2\Assignments\Week 2 Assignment 2.2.1\assignment 1\bin\Debug\assignment 1.exe.config
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\Semester1\PCS2\Assignments\Week 2 Assignment 2.2.1\assignment 1\bin\Debug\assignment 1.exe
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\Semester1\PCS2\Assignments\Week 2 Assignment 2.2.1\assignment 1\bin\Debug\assignment 1.pdb
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\Semester1\PCS2\Assignments\Week 2 Assignment 2.2.1\assignment 1\obj\Debug\assignment 1.csprojAssemblyReference.cache
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\Semester1\PCS2\Assignments\Week 2 Assignment 2.2.1\assignment 1\obj\Debug\assignment_1.Form1.resources
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\Semester1\PCS2\Assignments\Week 2 Assignment 2.2.1\assignment 1\obj\Debug\assignment_1.Properties.Resources.resources
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\Semester1\PCS2\Assignments\Week 2 Assignment 2.2.1\assignment 1\obj\Debug\assignment 1.csproj.GenerateResource.cache
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\Semester1\PCS2\Assignments\Week 2 Assignment 2.2.1\assignment 1\obj\Debug\assignment 1.csproj.CoreCompileInputs.cache
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\Semester1\PCS2\Assignments\Week 2 Assignment 2.2.1\assignment 1\obj\Debug\assignment 1.exe
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\Semester1\PCS2\Assignments\Week 2 Assignment 2.2.1\assignment 1\obj\Debug\assignment 1.pdb

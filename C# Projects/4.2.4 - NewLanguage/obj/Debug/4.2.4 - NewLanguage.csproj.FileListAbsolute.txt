@@ -1,0 +1,10 @@
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\pcs2---assignments-master\4.2.4 - NewLanguage\bin\Debug\4.2.4 - NewLanguage.exe.config
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\pcs2---assignments-master\4.2.4 - NewLanguage\bin\Debug\4.2.4 - NewLanguage.exe
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\pcs2---assignments-master\4.2.4 - NewLanguage\bin\Debug\4.2.4 - NewLanguage.pdb
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\pcs2---assignments-master\4.2.4 - NewLanguage\obj\Debug\4.2.4 - NewLanguage.csprojAssemblyReference.cache
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\pcs2---assignments-master\4.2.4 - NewLanguage\obj\Debug\_4._2._4___NewLanguage.Form1.resources
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\pcs2---assignments-master\4.2.4 - NewLanguage\obj\Debug\_4._2._4___NewLanguage.Properties.Resources.resources
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\pcs2---assignments-master\4.2.4 - NewLanguage\obj\Debug\4.2.4 - NewLanguage.csproj.GenerateResource.cache
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\pcs2---assignments-master\4.2.4 - NewLanguage\obj\Debug\4.2.4 - NewLanguage.csproj.CoreCompileInputs.cache
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\pcs2---assignments-master\4.2.4 - NewLanguage\obj\Debug\4.2.4 - NewLanguage.exe
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\pcs2---assignments-master\4.2.4 - NewLanguage\obj\Debug\4.2.4 - NewLanguage.pdb

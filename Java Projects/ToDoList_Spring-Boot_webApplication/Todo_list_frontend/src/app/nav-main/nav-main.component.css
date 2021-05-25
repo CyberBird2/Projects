@@ -1,0 +1,54 @@
+@import '~bootstrap/dist/css/bootstrap.min.css'; 
+
+
+.mat-toolbar.mat-primary {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+.main-content
+{
+  background-color: white;
+}
+.mat-toolbar
+{
+  background-color: skyblue;
+  COLOR:black; 
+}
+
+.sidenav {
+  width: 178px;
+  background-color: skyblue;
+  color:black;
+}
+
+.sidenav-container {
+  height: 100%;
+}
+
+.sidenav .mat-toolbar {
+  background: brown;
+}
+
+.sidenav-item
+{
+  font-size: larger;
+}
+.item:hover
+{
+  background-color: brown;;
+  color:white;
+}
+.item
+{
+  border-bottom: 1px solid #bdb8d7;
+  border-bottom: 1px solid brown;
+  border-top: 1px solid brown;
+}
+.menu-icon:hover
+{
+   background-color: skyblue;
+}
+
+
+

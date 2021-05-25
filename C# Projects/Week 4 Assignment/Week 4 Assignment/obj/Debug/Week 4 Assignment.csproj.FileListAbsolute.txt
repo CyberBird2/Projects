@@ -1,0 +1,19 @@
+C:\Users\Bilal Aktas\Desktop\Fontys Subjects\Semester2\PCS3\Assignments\Week 4 Assignment\Week 4 Assignment\bin\Debug\Week 4 Assignment.exe.config
+C:\Users\Bilal Aktas\Desktop\Fontys Subjects\Semester2\PCS3\Assignments\Week 4 Assignment\Week 4 Assignment\bin\Debug\Week 4 Assignment.exe
+C:\Users\Bilal Aktas\Desktop\Fontys Subjects\Semester2\PCS3\Assignments\Week 4 Assignment\Week 4 Assignment\bin\Debug\Week 4 Assignment.pdb
+C:\Users\Bilal Aktas\Desktop\Fontys Subjects\Semester2\PCS3\Assignments\Week 4 Assignment\Week 4 Assignment\obj\Debug\Week 4 Assignment.csprojAssemblyReference.cache
+C:\Users\Bilal Aktas\Desktop\Fontys Subjects\Semester2\PCS3\Assignments\Week 4 Assignment\Week 4 Assignment\obj\Debug\Week_4_Assignment.SimpleCalculator.resources
+C:\Users\Bilal Aktas\Desktop\Fontys Subjects\Semester2\PCS3\Assignments\Week 4 Assignment\Week 4 Assignment\obj\Debug\Week_4_Assignment.Properties.Resources.resources
+C:\Users\Bilal Aktas\Desktop\Fontys Subjects\Semester2\PCS3\Assignments\Week 4 Assignment\Week 4 Assignment\obj\Debug\Week 4 Assignment.csproj.GenerateResource.cache
+C:\Users\Bilal Aktas\Desktop\Fontys Subjects\Semester2\PCS3\Assignments\Week 4 Assignment\Week 4 Assignment\obj\Debug\Week 4 Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Bilal Aktas\Desktop\Fontys Subjects\Semester2\PCS3\Assignments\Week 4 Assignment\Week 4 Assignment\obj\Debug\Week 4 Assignment.exe
+C:\Users\Bilal Aktas\Desktop\Fontys Subjects\Semester2\PCS3\Assignments\Week 4 Assignment\Week 4 Assignment\obj\Debug\Week 4 Assignment.pdb
+C:\Users\Bilal\OneDrive\Masaüstü\Fontys Subjects\Semester2\PCS3\Assignments\Week 4 Assignment\Week 4 Assignment\bin\Debug\Week 4 Assignment.exe.config
+C:\Users\Bilal\OneDrive\Masaüstü\Fontys Subjects\Semester2\PCS3\Assignments\Week 4 Assignment\Week 4 Assignment\bin\Debug\Week 4 Assignment.exe
+C:\Users\Bilal\OneDrive\Masaüstü\Fontys Subjects\Semester2\PCS3\Assignments\Week 4 Assignment\Week 4 Assignment\bin\Debug\Week 4 Assignment.pdb
+C:\Users\Bilal\OneDrive\Masaüstü\Fontys Subjects\Semester2\PCS3\Assignments\Week 4 Assignment\Week 4 Assignment\obj\Debug\Week 4 Assignment.csprojAssemblyReference.cache
+C:\Users\Bilal\OneDrive\Masaüstü\Fontys Subjects\Semester2\PCS3\Assignments\Week 4 Assignment\Week 4 Assignment\obj\Debug\Week_4_Assignment.SimpleCalculator.resources
+C:\Users\Bilal\OneDrive\Masaüstü\Fontys Subjects\Semester2\PCS3\Assignments\Week 4 Assignment\Week 4 Assignment\obj\Debug\Week_4_Assignment.Properties.Resources.resources
+C:\Users\Bilal\OneDrive\Masaüstü\Fontys Subjects\Semester2\PCS3\Assignments\Week 4 Assignment\Week 4 Assignment\obj\Debug\Week 4 Assignment.csproj.GenerateResource.cache
+C:\Users\Bilal\OneDrive\Masaüstü\Fontys Subjects\Semester2\PCS3\Assignments\Week 4 Assignment\Week 4 Assignment\obj\Debug\Week 4 Assignment.exe
+C:\Users\Bilal\OneDrive\Masaüstü\Fontys Subjects\Semester2\PCS3\Assignments\Week 4 Assignment\Week 4 Assignment\obj\Debug\Week 4 Assignment.pdb

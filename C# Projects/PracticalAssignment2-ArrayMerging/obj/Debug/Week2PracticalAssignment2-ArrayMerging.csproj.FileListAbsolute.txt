@@ -1,0 +1,10 @@
+C:\Users\Medhat Riad\Documents\src\repos\pcs2\Week2PracticalAssignment2-ArrayMerging\bin\Debug\Week2PracticalAssignment2-ArrayMerging.exe.config
+C:\Users\Medhat Riad\Documents\src\repos\pcs2\Week2PracticalAssignment2-ArrayMerging\bin\Debug\Week2PracticalAssignment2-ArrayMerging.exe
+C:\Users\Medhat Riad\Documents\src\repos\pcs2\Week2PracticalAssignment2-ArrayMerging\bin\Debug\Week2PracticalAssignment2-ArrayMerging.pdb
+C:\Users\Medhat Riad\Documents\src\repos\pcs2\Week2PracticalAssignment2-ArrayMerging\obj\Debug\Week2PracticalAssignment2-ArrayMerging.csprojAssemblyReference.cache
+C:\Users\Medhat Riad\Documents\src\repos\pcs2\Week2PracticalAssignment2-ArrayMerging\obj\Debug\Week2PracticalAssignment2_ArrayMerging.Properties.Resources.resources
+C:\Users\Medhat Riad\Documents\src\repos\pcs2\Week2PracticalAssignment2-ArrayMerging\obj\Debug\Week2PracticalAssignment2-ArrayMerging.csproj.GenerateResource.cache
+C:\Users\Medhat Riad\Documents\src\repos\pcs2\Week2PracticalAssignment2-ArrayMerging\obj\Debug\Week2PracticalAssignment2-ArrayMerging.csproj.CoreCompileInputs.cache
+C:\Users\Medhat Riad\Documents\src\repos\pcs2\Week2PracticalAssignment2-ArrayMerging\obj\Debug\Week2PracticalAssignment2-ArrayMerging.exe
+C:\Users\Medhat Riad\Documents\src\repos\pcs2\Week2PracticalAssignment2-ArrayMerging\obj\Debug\Week2PracticalAssignment2-ArrayMerging.pdb
+C:\Users\Medhat Riad\Documents\src\repos\pcs2\Week2PracticalAssignment2-ArrayMerging\obj\Debug\Week2PracticalAssignment2_ArrayMerging.ArrayMerging.resources

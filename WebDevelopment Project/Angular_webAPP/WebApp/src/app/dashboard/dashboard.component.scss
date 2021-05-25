@@ -1,0 +1,38 @@
+
+
+.container .box {
+    
+    display:table;
+}
+.container .box .box-row {
+    
+    display:table-row;
+}
+.container .box .box-cell {
+    display:table-cell;
+    width:33%;
+    padding:10px;
+}
+.container .box .box-cell.box1 {
+    text-align:justify;
+}
+.container .box .box-cell.box2 {
+    text-align:justify
+}
+.container .box .box-cell.box3 {
+    text-align:justify;
+}
+
+mat-card {
+    float: left;
+    margin: 50px;    
+    
+}
+
+// mat-card .DashboardDep .EmployeeCard .TaskCard{
+//     width: 33%;
+// }
+
+tr{
+    margin: 20px;
+}

@@ -1,0 +1,10 @@
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\Drawing a House Delal\Drawing a House Delal\bin\Debug\Drawing a House Delal.exe.config
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\Drawing a House Delal\Drawing a House Delal\bin\Debug\Drawing a House Delal.exe
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\Drawing a House Delal\Drawing a House Delal\bin\Debug\Drawing a House Delal.pdb
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\Drawing a House Delal\Drawing a House Delal\obj\Debug\Drawing_a_House_Delal.Form1.resources
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\Drawing a House Delal\Drawing a House Delal\obj\Debug\Drawing_a_House_Delal.Properties.Resources.resources
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\Drawing a House Delal\Drawing a House Delal\obj\Debug\Drawing a House Delal.csproj.GenerateResource.cache
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\Drawing a House Delal\Drawing a House Delal\obj\Debug\Drawing a House Delal.csproj.CoreCompileInputs.cache
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\Drawing a House Delal\Drawing a House Delal\obj\Debug\Drawing a House Delal.exe
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\Drawing a House Delal\Drawing a House Delal\obj\Debug\Drawing a House Delal.pdb
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\Drawing a House Delal\Drawing a House Delal\obj\Debug\Drawing a House Delal.csprojAssemblyReference.cache

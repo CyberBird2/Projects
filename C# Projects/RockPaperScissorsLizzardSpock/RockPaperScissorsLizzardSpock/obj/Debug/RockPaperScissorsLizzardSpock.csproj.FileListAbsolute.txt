@@ -1,0 +1,10 @@
+C:\Users\Bilal Aktas\Desktop\RockPaperScissorsLizzardSpock\RockPaperScissorsLizzardSpock\bin\Debug\RockPaperScissorsLizzardSpock.exe.config
+C:\Users\Bilal Aktas\Desktop\RockPaperScissorsLizzardSpock\RockPaperScissorsLizzardSpock\bin\Debug\RockPaperScissorsLizzardSpock.exe
+C:\Users\Bilal Aktas\Desktop\RockPaperScissorsLizzardSpock\RockPaperScissorsLizzardSpock\bin\Debug\RockPaperScissorsLizzardSpock.pdb
+C:\Users\Bilal Aktas\Desktop\RockPaperScissorsLizzardSpock\RockPaperScissorsLizzardSpock\obj\Debug\RockPaperScissorsLizzardSpock.csprojAssemblyReference.cache
+C:\Users\Bilal Aktas\Desktop\RockPaperScissorsLizzardSpock\RockPaperScissorsLizzardSpock\obj\Debug\RockPaperScissorsLizzardSpock.Form1.resources
+C:\Users\Bilal Aktas\Desktop\RockPaperScissorsLizzardSpock\RockPaperScissorsLizzardSpock\obj\Debug\RockPaperScissorsLizzardSpock.Properties.Resources.resources
+C:\Users\Bilal Aktas\Desktop\RockPaperScissorsLizzardSpock\RockPaperScissorsLizzardSpock\obj\Debug\RockPaperScissorsLizzardSpock.csproj.GenerateResource.cache
+C:\Users\Bilal Aktas\Desktop\RockPaperScissorsLizzardSpock\RockPaperScissorsLizzardSpock\obj\Debug\RockPaperScissorsLizzardSpock.csproj.CoreCompileInputs.cache
+C:\Users\Bilal Aktas\Desktop\RockPaperScissorsLizzardSpock\RockPaperScissorsLizzardSpock\obj\Debug\RockPaperScissorsLizzardSpock.exe
+C:\Users\Bilal Aktas\Desktop\RockPaperScissorsLizzardSpock\RockPaperScissorsLizzardSpock\obj\Debug\RockPaperScissorsLizzardSpock.pdb

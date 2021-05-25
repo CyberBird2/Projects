@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week 4 Assignment 4.2.3 MP3", "Week 4 Assignment 4.2.3 MP3\Week 4 Assignment 4.2.3 MP3.csproj", "{6EC0EDC0-7C2D-4C59-A388-D276A694AC2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EC0EDC0-7C2D-4C59-A388-D276A694AC2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EC0EDC0-7C2D-4C59-A388-D276A694AC2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EC0EDC0-7C2D-4C59-A388-D276A694AC2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EC0EDC0-7C2D-4C59-A388-D276A694AC2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF001123-3ACC-4A3F-B218-89F1CB54AEB2}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+mat-card {
+  margin: 50px;
+}
+
+table{
+  width: 100%;
+}
+
+
+tr:hover{
+  background-color: #1A237E; 
+}
+
+.selectedTaskRow.selected{
+  background-color: #3F51B5 ;
+}
+

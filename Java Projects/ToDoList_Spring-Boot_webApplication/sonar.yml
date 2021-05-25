@@ -1,0 +1,4 @@
+mvn sonar:sonar \
+  -Dsonar.projectKey=ToDoList \
+  -Dsonar.host.url=http://localhost:9000 \
+  -Dsonar.login=27942b2f49ee0ab9296adb3043fa397d4241913a

@@ -1,0 +1,31 @@
+<!-- dialog-box.component.html -->
+<h1 mat-dialog-title>Row Action :: <strong>{{action}}</strong></h1>
+<div mat-dialog-content>
+    <mat-form-field *ngIf="action != 'Delete'; else elseTemplate">
+        <input placeholder="{{action}} FirstName" matInput [(ngModel)]="local_data.first_name">
+    </mat-form-field>
+    <mat-form-field *ngIf="action != 'Delete'; else ">
+        <input placeholder="{{action}} LastName" matInput [(ngModel)]="local_data.last_name">
+    </mat-form-field>
+    <mat-form-field *ngIf="action != 'Delete'; else ">
+        <input placeholder="{{action}} DepartmentNr" matInput [(ngModel)]="local_data.DepartmentNr">
+    </mat-form-field>
+    <mat-form-field *ngIf="action != 'Delete'; else ">
+        <input placeholder="{{action}} Gender" matInput [(ngModel)]="local_data.gender">
+    </mat-form-field>
+    <mat-form-field *ngIf="action != 'Delete'; else ">
+        <input placeholder="{{action}} dob" matInput [(ngModel)]="local_data.dob" [matDatepicker]="mydatepicker">
+        <mat-datepicker-toggle matSuffix [for]="mydatepicker"></mat-datepicker-toggle>
+        <mat-datepicker #mydatepicker></mat-datepicker>
+    </mat-form-field>
+
+
+
+    <ng-template #elseTemplate>
+        Are you sure you want permanently delete <b>{{local_data.first_name}}</b>?
+    </ng-template>
+</div>
+<div mat-dialog-actions>
+    <button mat-button (click)="doAction()">{{action}}</button>
+    <button mat-button (click)="closeDialog()" mat-flat-button color="warn">Cancel</button>
+</div>

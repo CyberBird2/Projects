@@ -1,0 +1,10 @@
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\pcs2---assignments-master\5.2.4 - Painting\bin\Debug\5.2.4 - Painting.exe.config
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\pcs2---assignments-master\5.2.4 - Painting\bin\Debug\5.2.4 - Painting.exe
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\pcs2---assignments-master\5.2.4 - Painting\bin\Debug\5.2.4 - Painting.pdb
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\pcs2---assignments-master\5.2.4 - Painting\obj\Debug\5.2.4 - Painting.csprojAssemblyReference.cache
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\pcs2---assignments-master\5.2.4 - Painting\obj\Debug\_5._2._4___Painting.Form1.resources
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\pcs2---assignments-master\5.2.4 - Painting\obj\Debug\_5._2._4___Painting.Properties.Resources.resources
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\pcs2---assignments-master\5.2.4 - Painting\obj\Debug\5.2.4 - Painting.csproj.GenerateResource.cache
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\pcs2---assignments-master\5.2.4 - Painting\obj\Debug\5.2.4 - Painting.csproj.CoreCompileInputs.cache
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\pcs2---assignments-master\5.2.4 - Painting\obj\Debug\5.2.4 - Painting.exe
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\pcs2---assignments-master\5.2.4 - Painting\obj\Debug\5.2.4 - Painting.pdb

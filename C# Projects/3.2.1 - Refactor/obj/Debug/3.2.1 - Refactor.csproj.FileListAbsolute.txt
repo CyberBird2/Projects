@@ -1,0 +1,2 @@
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\pcs2---assignments-master\3.2.1 - Refactor\obj\Debug\3.2.1 - Refactor.csprojAssemblyReference.cache
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\pcs2---assignments-master\3.2.1 - Refactor\obj\Debug\3.2.1 - Refactor.csproj.CoreCompileInputs.cache

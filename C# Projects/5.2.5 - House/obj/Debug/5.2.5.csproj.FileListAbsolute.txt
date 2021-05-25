@@ -1,0 +1,20 @@
+C:\Users\Bilal Aktas\Desktop\pcs2---assignments-master\5.2.5 - House\bin\Debug\5.2.5.exe.config
+C:\Users\Bilal Aktas\Desktop\pcs2---assignments-master\5.2.5 - House\bin\Debug\5.2.5.exe
+C:\Users\Bilal Aktas\Desktop\pcs2---assignments-master\5.2.5 - House\bin\Debug\5.2.5.pdb
+C:\Users\Bilal Aktas\Desktop\pcs2---assignments-master\5.2.5 - House\obj\Debug\5.2.5.csprojAssemblyReference.cache
+C:\Users\Bilal Aktas\Desktop\pcs2---assignments-master\5.2.5 - House\obj\Debug\_5._2._5.Form1.resources
+C:\Users\Bilal Aktas\Desktop\pcs2---assignments-master\5.2.5 - House\obj\Debug\_5._2._5.Properties.Resources.resources
+C:\Users\Bilal Aktas\Desktop\pcs2---assignments-master\5.2.5 - House\obj\Debug\5.2.5.csproj.GenerateResource.cache
+C:\Users\Bilal Aktas\Desktop\pcs2---assignments-master\5.2.5 - House\obj\Debug\5.2.5.csproj.CoreCompileInputs.cache
+C:\Users\Bilal Aktas\Desktop\pcs2---assignments-master\5.2.5 - House\obj\Debug\5.2.5.exe
+C:\Users\Bilal Aktas\Desktop\pcs2---assignments-master\5.2.5 - House\obj\Debug\5.2.5.pdb
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\pcs2---assignments-master\5.2.5 - House\bin\Debug\5.2.5.exe.config
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\pcs2---assignments-master\5.2.5 - House\bin\Debug\5.2.5.exe
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\pcs2---assignments-master\5.2.5 - House\bin\Debug\5.2.5.pdb
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\pcs2---assignments-master\5.2.5 - House\obj\Debug\5.2.5.csprojAssemblyReference.cache
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\pcs2---assignments-master\5.2.5 - House\obj\Debug\_5._2._5.Form1.resources
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\pcs2---assignments-master\5.2.5 - House\obj\Debug\_5._2._5.Properties.Resources.resources
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\pcs2---assignments-master\5.2.5 - House\obj\Debug\5.2.5.csproj.GenerateResource.cache
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\pcs2---assignments-master\5.2.5 - House\obj\Debug\5.2.5.csproj.CoreCompileInputs.cache
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\pcs2---assignments-master\5.2.5 - House\obj\Debug\5.2.5.exe
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\pcs2---assignments-master\5.2.5 - House\obj\Debug\5.2.5.pdb

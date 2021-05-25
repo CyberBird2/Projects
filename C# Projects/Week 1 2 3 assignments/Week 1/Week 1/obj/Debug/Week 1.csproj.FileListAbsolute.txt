@@ -1,0 +1,10 @@
+C:\Users\Bilal\OneDrive\Masaüstü\PCS 3 Assignments\Week 1\Week 1\bin\Debug\Week 1.exe.config
+C:\Users\Bilal\OneDrive\Masaüstü\PCS 3 Assignments\Week 1\Week 1\bin\Debug\Week 1.exe
+C:\Users\Bilal\OneDrive\Masaüstü\PCS 3 Assignments\Week 1\Week 1\bin\Debug\Week 1.pdb
+C:\Users\Bilal\OneDrive\Masaüstü\PCS 3 Assignments\Week 1\Week 1\obj\Debug\Week 1.csprojAssemblyReference.cache
+C:\Users\Bilal\OneDrive\Masaüstü\PCS 3 Assignments\Week 1\Week 1\obj\Debug\Week_1.Form1.resources
+C:\Users\Bilal\OneDrive\Masaüstü\PCS 3 Assignments\Week 1\Week 1\obj\Debug\Week_1.Properties.Resources.resources
+C:\Users\Bilal\OneDrive\Masaüstü\PCS 3 Assignments\Week 1\Week 1\obj\Debug\Week 1.csproj.GenerateResource.cache
+C:\Users\Bilal\OneDrive\Masaüstü\PCS 3 Assignments\Week 1\Week 1\obj\Debug\Week 1.csproj.CoreCompileInputs.cache
+C:\Users\Bilal\OneDrive\Masaüstü\PCS 3 Assignments\Week 1\Week 1\obj\Debug\Week 1.exe
+C:\Users\Bilal\OneDrive\Masaüstü\PCS 3 Assignments\Week 1\Week 1\obj\Debug\Week 1.pdb

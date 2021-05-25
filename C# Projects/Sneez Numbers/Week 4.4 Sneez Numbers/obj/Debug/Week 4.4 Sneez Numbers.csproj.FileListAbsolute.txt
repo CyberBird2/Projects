@@ -1,0 +1,19 @@
+C:\Users\Bilal Aktas\Desktop\Fontys Subjects\Semester2\PCS3\Assignments\Week 4.4 Sneez Numbers\Week 4.4 Sneez Numbers\bin\Debug\Week 4.4 Sneez Numbers.exe.config
+C:\Users\Bilal Aktas\Desktop\Fontys Subjects\Semester2\PCS3\Assignments\Week 4.4 Sneez Numbers\Week 4.4 Sneez Numbers\bin\Debug\Week 4.4 Sneez Numbers.exe
+C:\Users\Bilal Aktas\Desktop\Fontys Subjects\Semester2\PCS3\Assignments\Week 4.4 Sneez Numbers\Week 4.4 Sneez Numbers\bin\Debug\Week 4.4 Sneez Numbers.pdb
+C:\Users\Bilal Aktas\Desktop\Fontys Subjects\Semester2\PCS3\Assignments\Week 4.4 Sneez Numbers\Week 4.4 Sneez Numbers\obj\Debug\Week 4.4 Sneez Numbers.csprojAssemblyReference.cache
+C:\Users\Bilal Aktas\Desktop\Fontys Subjects\Semester2\PCS3\Assignments\Week 4.4 Sneez Numbers\Week 4.4 Sneez Numbers\obj\Debug\Week_4._4_Sneez_Numbers.Form1.resources
+C:\Users\Bilal Aktas\Desktop\Fontys Subjects\Semester2\PCS3\Assignments\Week 4.4 Sneez Numbers\Week 4.4 Sneez Numbers\obj\Debug\Week_4._4_Sneez_Numbers.Properties.Resources.resources
+C:\Users\Bilal Aktas\Desktop\Fontys Subjects\Semester2\PCS3\Assignments\Week 4.4 Sneez Numbers\Week 4.4 Sneez Numbers\obj\Debug\Week 4.4 Sneez Numbers.csproj.GenerateResource.cache
+C:\Users\Bilal Aktas\Desktop\Fontys Subjects\Semester2\PCS3\Assignments\Week 4.4 Sneez Numbers\Week 4.4 Sneez Numbers\obj\Debug\Week 4.4 Sneez Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Bilal Aktas\Desktop\Fontys Subjects\Semester2\PCS3\Assignments\Week 4.4 Sneez Numbers\Week 4.4 Sneez Numbers\obj\Debug\Week 4.4 Sneez Numbers.exe
+C:\Users\Bilal Aktas\Desktop\Fontys Subjects\Semester2\PCS3\Assignments\Week 4.4 Sneez Numbers\Week 4.4 Sneez Numbers\obj\Debug\Week 4.4 Sneez Numbers.pdb
+C:\Users\Bilal\OneDrive\Masaüstü\Fontys Subjects\Semester2\PCS3\Assignments\Week 4.4 Sneez Numbers\Week 4.4 Sneez Numbers\bin\Debug\Week 4.4 Sneez Numbers.exe.config
+C:\Users\Bilal\OneDrive\Masaüstü\Fontys Subjects\Semester2\PCS3\Assignments\Week 4.4 Sneez Numbers\Week 4.4 Sneez Numbers\bin\Debug\Week 4.4 Sneez Numbers.exe
+C:\Users\Bilal\OneDrive\Masaüstü\Fontys Subjects\Semester2\PCS3\Assignments\Week 4.4 Sneez Numbers\Week 4.4 Sneez Numbers\bin\Debug\Week 4.4 Sneez Numbers.pdb
+C:\Users\Bilal\OneDrive\Masaüstü\Fontys Subjects\Semester2\PCS3\Assignments\Week 4.4 Sneez Numbers\Week 4.4 Sneez Numbers\obj\Debug\Week 4.4 Sneez Numbers.csprojAssemblyReference.cache
+C:\Users\Bilal\OneDrive\Masaüstü\Fontys Subjects\Semester2\PCS3\Assignments\Week 4.4 Sneez Numbers\Week 4.4 Sneez Numbers\obj\Debug\Week_4._4_Sneez_Numbers.Form1.resources
+C:\Users\Bilal\OneDrive\Masaüstü\Fontys Subjects\Semester2\PCS3\Assignments\Week 4.4 Sneez Numbers\Week 4.4 Sneez Numbers\obj\Debug\Week_4._4_Sneez_Numbers.Properties.Resources.resources
+C:\Users\Bilal\OneDrive\Masaüstü\Fontys Subjects\Semester2\PCS3\Assignments\Week 4.4 Sneez Numbers\Week 4.4 Sneez Numbers\obj\Debug\Week 4.4 Sneez Numbers.csproj.GenerateResource.cache
+C:\Users\Bilal\OneDrive\Masaüstü\Fontys Subjects\Semester2\PCS3\Assignments\Week 4.4 Sneez Numbers\Week 4.4 Sneez Numbers\obj\Debug\Week 4.4 Sneez Numbers.exe
+C:\Users\Bilal\OneDrive\Masaüstü\Fontys Subjects\Semester2\PCS3\Assignments\Week 4.4 Sneez Numbers\Week 4.4 Sneez Numbers\obj\Debug\Week 4.4 Sneez Numbers.pdb

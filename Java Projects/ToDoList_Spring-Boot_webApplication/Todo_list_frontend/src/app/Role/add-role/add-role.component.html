@@ -1,0 +1,114 @@
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+
+<div style="width: 400px; margin: auto;">
+  <div class="submit-form">
+    <div *ngIf="!submitted">
+      <div class="form-group">
+        <label for="name">Name</label>
+        <input
+          type="text"
+          class="form-control"
+          id="name"
+          required
+          [(ngModel)]="role.name"
+          name="name"
+        />
+      </div>
+      <button (click)="saveRole()" class="btn btn-success">Submit</button>
+    </div>
+
+    <div *ngIf="submitted">
+      <h4>You submitted successfully!</h4>
+      <button class="btn btn-success" (click)="newRole()">Add Role</button>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">-->
+<!--<div class="role_container">-->
+<!--  <table class="headerTable">-->
+<!--    <tr>-->
+<!--      <td><h2>Role</h2></td>-->
+<!--      &lt;!&ndash;      routerLink="addRoles"&ndash;&gt;-->
+<!--      <div class="button-add">-->
+
+<!--        <td><button class="btn btn-light btn-outline-dark" data-toggle="modal"  data-target="#roleAdd">+</button></td>-->
+
+<!--      </div>-->
+<!--      &lt;!&ndash;Search function&ndash;&gt;-->
+<!--    </tr>-->
+<!--  </table>-->
+<!--<div class="department_container">-->
+<!--&lt;!&ndash; Modal For Creating new department &ndash;&gt;-->
+<!--<div class="modal fade" id="roleAdd" role="dialog" data-backdrop="false" style="background-color: rgba(0, 0, 0, 0.5);">-->
+<!--  <form #roleAdd="ngForm" [formGroup]="this.form"  ng-submit="addRole(roleForm)">-->
+<!--    <div class="modal-dialog">-->
+<!--      &lt;!&ndash; Modal content&ndash;&gt;-->
+<!--      <div class="modal-content">-->
+<!--        <div class="modal-header">-->
+<!--          <h4 class="modal-title">Add New Role</h4>-->
+<!--          <button type="button" class="close" data-dismiss="modal">&times;</button>-->
+<!--        </div>-->
+<!--        <div class="modal-body">-->
+<!--          <p class="text-muted" style="font-size:20px">Name:</p>-->
+<!--          <div [ngClass]="{'has-error' : form.get('name').errors && (form.get('name').touched || form.get('name').dirty)}">-->
+<!--            <input style="font-size: 15px;" class="form-control" #roleName formControlName="name" type="text" placeholder="Role name"/>-->
+<!--            <span class="help-block" *ngIf="form.get('name').errors && (form.get('name').touched || form.get('name').dirty)">-->
+<!--                      <span *ngIf="form.get('name').errors?.required">This Field is mandatory</span>-->
+<!--                      <span *ngIf="form.get('name').errors?.minlength">Minimum 2 Characters</span>-->
+<!--                    </span>-->
+<!--          </div>-->
+<!--          <br>-->
+<!--          <p class="text-muted" style="font-size:20px">Department ID:</p>-->
+<!--          <div [ngClass]="{'has-error' : form.get('department_id').errors && (form.get('department_id').touched || form.get('department_id').dirty)}">-->
+<!--            <label>-->
+<!--              <input style="font-size: 15px;" class="form-control"#roleDepartmentID formControlName="department_id" type="text" placeholder="Department ID"/>-->
+<!--            </label>-->
+<!--            <span class="help-block" *ngIf="form.get('department_id').errors && (form.get('department_id').touched || form.get('department_id').dirty)">-->
+<!--                      <small data-error="wrong" data-success="right" *ngIf="form.get('department_id').errors?.required">This Field is mandatory</small>-->
+<!--                      <small data-error="wrong" data-success="right" *ngIf="form.get('department_id').errors?.minlength">Minimum 4 Characters</small>-->
+<!--                    </span>-->
+<!--          </div>-->
+<!--        </div>-->
+
+<!--         </div>-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+

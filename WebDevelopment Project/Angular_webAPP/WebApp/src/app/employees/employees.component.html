@@ -1,0 +1,61 @@
+<mat-card class="BackgroundCard">
+    <mat-card-title>Employees</mat-card-title>
+    <input type="text" style="float:right" (keyup)="applyFilter($event.target.value)" placeholder="search for" class="form-control-sm top-margin">
+    <mat-card-content>
+        <button mat-button (click)="openDialog('Add',{})" mat-flat-button color="primary">Add employee</button>
+        <div class="table-striped">
+
+            <table mat-table [dataSource]="dataSource">
+
+                <ng-container matColumnDef="ID">
+                    <th mat-header-cell *matHeaderCellDef> ID </th>
+                    <td mat-cell *matCellDef="let employee"> {{employee.id}} </td>
+                </ng-container>
+
+
+                <ng-container matColumnDef="FirstName">
+                    <th mat-header-cell *matHeaderCellDef> First Name </th>
+                    <td mat-cell *matCellDef="let employee"> {{employee.first_name}} </td>
+                </ng-container>
+
+
+                <ng-container matColumnDef="LastName">
+                    <th mat-header-cell *matHeaderCellDef> Last Name </th>
+                    <td mat-cell *matCellDef="let employee">{{employee.last_name }} </td>
+                </ng-container>
+
+
+                <ng-container matColumnDef="Gender">
+                    <th mat-header-cell *matHeaderCellDef> Gender </th>
+                    <td mat-cell *matCellDef="let employee">{{employee.gender}} </td>
+                </ng-container>
+
+                <ng-container matColumnDef="dob">
+                    <th mat-header-cell *matHeaderCellDef> Birthdate </th>
+                    <td mat-cell *matCellDef="let employee">{{employee.dob | date:"dd/MMMM/yy" }} </td>
+                </ng-container>
+                <ng-container matColumnDef="Department">
+                    <th mat-header-cell *matHeaderCellDef> Department </th>
+                    <td mat-cell *matCellDef="let employee">{{employee.EmployeeDepartment.name}} </td>
+                </ng-container>
+                <!-- Action Column -->
+                <ng-container matColumnDef="action">
+                    <th mat-header-cell *matHeaderCellDef> Action </th>
+                    <td mat-cell *matCellDef="let employee" class="action-link">
+                        <a (click)="openDialog('Update',employee)">Edit</a> |
+                        <a (click)="openDialog('Delete',employee)">Delete</a>
+                    </td>
+                </ng-container>
+
+
+
+
+                <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+                <tr mat-row class="selectedEmployee" *matRowDef="let employee; columns: displayedColumns;"></tr>
+
+
+            </table>
+        </div>
+
+    </mat-card-content>
+</mat-card>

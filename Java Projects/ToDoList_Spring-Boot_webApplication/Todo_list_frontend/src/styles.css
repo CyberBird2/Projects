@@ -1,0 +1,32 @@
+@import '~bootstrap/dist/css/bootstrap.min.css';
+@import '~@fullcalendar/core/main.css';
+@import '~@fullcalendar/daygrid/main.css';
+
+
+ 
+   * {
+    font-family: Arial;
+     }
+
+   .sidebar {
+    background: skyblue!important;
+  }
+
+.html, body
+  {
+   height: 100%;
+
+  }
+  body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+  body {
+    margin: 2em;
+  }
+    body, input[type="text"], button {
+    color: skyblue;
+    font-family:  Georgia;
+  }
+

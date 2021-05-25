@@ -1,0 +1,10 @@
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\pcs2---assignments-master\5.2.1 - SortingGrades\bin\Debug\5.2.1 - SortingGrades.exe.config
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\pcs2---assignments-master\5.2.1 - SortingGrades\bin\Debug\5.2.1 - SortingGrades.exe
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\pcs2---assignments-master\5.2.1 - SortingGrades\bin\Debug\5.2.1 - SortingGrades.pdb
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\pcs2---assignments-master\5.2.1 - SortingGrades\obj\Debug\5.2.1 - SortingGrades.csprojAssemblyReference.cache
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\pcs2---assignments-master\5.2.1 - SortingGrades\obj\Debug\_5._2._1___SortingGrades.Form1.resources
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\pcs2---assignments-master\5.2.1 - SortingGrades\obj\Debug\_5._2._1___SortingGrades.Properties.Resources.resources
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\pcs2---assignments-master\5.2.1 - SortingGrades\obj\Debug\5.2.1 - SortingGrades.csproj.GenerateResource.cache
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\pcs2---assignments-master\5.2.1 - SortingGrades\obj\Debug\5.2.1 - SortingGrades.csproj.CoreCompileInputs.cache
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\pcs2---assignments-master\5.2.1 - SortingGrades\obj\Debug\5.2.1 - SortingGrades.exe
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\pcs2---assignments-master\5.2.1 - SortingGrades\obj\Debug\5.2.1 - SortingGrades.pdb

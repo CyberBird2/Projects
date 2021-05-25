@@ -1,0 +1,10 @@
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\pcs2---assignments-master\4.2.5 - FindAndReplace\bin\Debug\4.2.5 - FindAndReplace.exe.config
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\pcs2---assignments-master\4.2.5 - FindAndReplace\bin\Debug\4.2.5 - FindAndReplace.exe
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\pcs2---assignments-master\4.2.5 - FindAndReplace\bin\Debug\4.2.5 - FindAndReplace.pdb
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\pcs2---assignments-master\4.2.5 - FindAndReplace\obj\Debug\4.2.5 - FindAndReplace.csprojAssemblyReference.cache
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\pcs2---assignments-master\4.2.5 - FindAndReplace\obj\Debug\_4._2._5___FindAndReplace.Form1.resources
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\pcs2---assignments-master\4.2.5 - FindAndReplace\obj\Debug\_4._2._5___FindAndReplace.Properties.Resources.resources
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\pcs2---assignments-master\4.2.5 - FindAndReplace\obj\Debug\4.2.5 - FindAndReplace.csproj.GenerateResource.cache
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\pcs2---assignments-master\4.2.5 - FindAndReplace\obj\Debug\4.2.5 - FindAndReplace.csproj.CoreCompileInputs.cache
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\pcs2---assignments-master\4.2.5 - FindAndReplace\obj\Debug\4.2.5 - FindAndReplace.exe
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\pcs2---assignments-master\4.2.5 - FindAndReplace\obj\Debug\4.2.5 - FindAndReplace.pdb

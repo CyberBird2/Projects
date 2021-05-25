@@ -1,0 +1,1038 @@
+    .navbar {
+        overflow: hidden;
+        background-color: #2f2f2f;
+        font-family: Arial;
+        height: 45px;
+        text-align: center;
+        color:white;
+      }
+      .navbar a {
+        float: left;
+        font-size: 16px;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+      }   
+      .Loginsignup{
+        float:right;
+    }
+      .dropdown {
+        float: left;
+        overflow: hidden;
+      }
+      .dropdown .dropbtn {
+        font-size: 16px;
+        border: none;
+        outline: none;
+        color: white;
+        padding: 14px 16px;
+        background-color: inherit;
+        font-family: inherit; 
+        margin: 0; 
+      }
+      .navbar a:hover, .dropdown:hover .dropbtn {
+        background-color:#a49053;
+      }  
+      .dropdown-content {
+        display: none;
+        position: absolute;
+        background-color: #f9f9f9;
+        min-width: 160px;
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+        z-index: 1;
+      }
+      .dropdown-content a {
+        float: none;
+        color: black;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+        text-align: left;
+      }
+      .dropdown-content a:hover {
+        background-color: #ddd;
+      } 
+      .dropdown:hover .dropdown-content {
+      display: block;
+    }
+      .dropdownshows {
+          float: left;
+          overflow: hidden;
+      }
+      .dropdownshows .dropbtn {
+        font-size: 16px;
+        border: none;
+        outline: none;
+        color: white;
+        padding: 14px 16px;
+        background-color: inherit;
+        font-family: inherit; 
+        margin: 0; 
+      }
+      .navbar a:hover, .dropdownshows:hover .dropbtn {
+        background-color:#a49053;
+      }     
+      .dropdownshows-content {
+        display: none;
+        position: absolute;
+        background-color: #f9f9f9;
+        min-width: 160px;
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+        z-index: 1;
+      }
+      .dropdownshows-content a {
+        float: none;
+        color: black;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+        text-align: left;     
+      }  
+      .dropdownshows-content a:hover {
+        background-color: #ddd;
+      }      
+      /* Show the dropdown menu on hover */
+      .dropdownshows:hover .dropdown-content
+      {
+        display: block;
+      }
+      .header-login{
+          float:right;
+          height: 60%;
+          display: flex;
+          flex-direction: row;
+          padding-bottom: 200px;
+      }
+      .header-login form 
+      {
+        height: 100%;   
+      }
+       .header-login form input {
+        height: 100%;
+        width: 160px;
+        padding: 0 15px;
+        border: none;
+        border-radius: 4px;
+        background-color: #F6F6F6;
+        float: left;
+        margin-left: 10px;
+        font-family: arial;
+        margin-top:10px;
+      }
+      
+    .header-login form button {
+      height: 100%;
+      padding: 0 10px;
+      border: none;
+      border-radius: 4px;
+      background-color: #333;
+      margin-left: 8px;
+      font-family: arial;
+      font-size: 13px;
+      color: #FFF;
+      text-transform: uppercase;
+      text-align: center;
+      margin-top:10px;
+    }
+    .headersignup {
+      height: 100%;
+      padding: 0 10px;
+      border: none;
+      border-radius: 4px;
+      background-color: #333;
+      margin-left: 8px;
+      font-family: arial;
+      font-size: 13px;
+      color: #FFF;
+      text-transform: uppercase;
+      text-align: center;
+      margin-top:10px;
+    }
+      
+      .LOGO{
+        top: 0px;
+        text-align: center;
+        background-color: #2f2f2f;
+      }
+      .LOGO img{
+        width: 200px;
+        height: 60px;
+      }
+      .footer-main{
+        width: 100%;
+        height:70px;
+        margin:auto;
+        background: #2f2f2f;
+        padding: 50px 0px;
+        bottom:0;
+        left: 0;
+        right: 0;;
+        position: absolute;
+        margin-top:-100px;
+      }
+      
+      .footer-socialicon{
+        width: 100%;
+        height: auto;
+        margin: auto;
+      }
+      .footer-socialicon ul{
+        margin:0px;
+        padding: 0px;
+        text-align: center;
+      }
+      .footer-socialicon ul li{
+        width: 50px;
+        height: 50px;
+        margin: 0px 10px;
+        border-radius: 100%;
+        background: #a49053;
+      }
+      .footer-socialicon ul li{
+
+        display: inline-block;
+        width: 50px;
+        height: 50px;
+        margin: 0px 10px;
+        border-radius: 100%;
+        background: #a49053;
+      }
+        .footer-socialicon ul li a{
+          color: white;
+          font-size: 25px;
+        }
+        .footer-socialicon ul li a i{
+          line-height: 50px;
+        }
+        .footer-main-comment{
+          width: 100%;
+          height:70px;
+          margin:auto;
+          background: #2f2f2f;
+          padding: 50px 0px;
+          bottom:0;
+          left: 0;
+          right: 0;;
+          position: fixed;     
+          position: relative;
+        }
+        body{ 
+          margin: 0;
+          padding: 0;
+          font-family: B612;
+          /*background-image: url(background.png)*/         
+        }
+        html{
+          height: 100%;
+          margin: 0;
+          padding: 0;
+        }
+        .wrapper{
+          min-height: 100%;
+          position: relative;
+          height: auto;
+        }
+        .maincontent{
+          padding-bottom:180px;
+        }
+        .maincontent3{
+
+          padding-bottom:350px;               
+        }
+        .maincontent01
+        {
+             
+        }
+        .titlediv{
+
+          font-family: "B612";
+          color:#a49053;        
+          text-align: center
+        }
+        .container {
+          max-width: 1000px;
+          display: flex;
+          margin: 50px 263px;
+          flex-wrap: wrap;
+          justify-content: space-around;      
+        }
+        /* Movies   */
+        .card {
+          position: relative;
+          width: 300px;
+          height: 400px;
+          margin: 15px;
+          background: #000;
+          box-shadow: 0 30px 30px rgba(0,0,0,.5);
+          justify-content: center;
+          align-items: center;   
+        }
+        
+        .card .imgbox {
+          position: relative;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+        }
+        
+        .card .imgbox img {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          object-fit: cover;
+          transition: 0.5s;
+        }
+        
+        .card:hover .imgbox img {
+          opacity: 0;
+        }
+        
+        .card .content {
+          position: absolute;
+          bottom: 20px;
+          left: 10%;
+          width: 80%;
+          height: 60px;
+          background: #fff;
+          transition: 0.5s;
+          overflow: hidden;
+        
+          padding: 15px;
+          box-sizing: border-box;
+        }       
+        .card:hover .content {
+          width: 100%;
+          height: 100%;
+          bottom: 0;
+          left: 0;
+        }       
+        .card .content h3 {
+          margin: 0;
+          padding: 0;
+          font-size: 20px;
+        }       
+        .card .content p {
+          margin: 10px 0 0;
+          padding: 0;
+          opacity: 0;
+          line-height: 1.2em;
+          transition: 0.5s;
+          text-align: justify;
+        }       
+        .card:hover .content p {
+          opacity: 1;
+          transition-delay: 0.5s;
+        }
+        .slider{
+          /*width: 663px;
+          height: 400px;
+          position: relative;
+          float: left;
+          margin-left: 20px;
+          margin-top:20px;*/
+          background: url(images/ouat1400x900.png);
+          border: 3px solid#2f2f2f;
+          width: 663px;
+          height: 400px;
+          position: relative;
+          float: left;
+          margin-left: 20px;
+          margin-top:20px;
+          background-size: 100%; 
+          background-position: center;
+        }
+
+        .slider:hover{
+          background-size: 110%;
+          background-position: center;
+          transition: 1s;
+        }
+        
+       /* .slider a img{
+          width: 100%;
+          height: 100%;
+          border: 3px solid#2f2f2f;
+        }*/
+
+        .highlight1{
+          width: 400px;
+          height:400px;
+          float:left;
+          margin-left: 5px;
+          margin-right: 5px;
+          margin-top:20px;
+        }
+
+        .highlight1 a img{
+          widows: 100%;
+          height: 100%;
+          border: 3px solid#2f2f2f;
+        }
+
+        .highlight2{
+          width: 400px;
+          height:400px;
+          float:left;
+          margin-right: 20px;
+          margin-top:20px;
+          margin-bottom: 20px;
+        }
+
+        .highlight2 a img{
+          widows: 100%;
+          height: 100%;
+          border: 3px solid#2f2f2f;
+        }
+
+        .premiers{
+          float: left;
+          margin-left: 10px;
+          border: 3px solid#2f2f2f;
+          background: blueviolet;
+          font-size:30px;
+          
+        }
+        .maindata
+        {
+          border:4px solid black;
+        
+        }
+
+        .shows{
+          background: #a49053;
+          height: 300px;
+          width: 787px;
+          position: relative;
+          float: left;
+          padding-left: 20px;       
+        }
+
+        .premiers h1,.shows h1{
+          font-family: Arial, Helvetica, sans-serif;
+          color: #2F2F2F;
+          font-weight: 700;
+          text-decoration: overline solid rgb(68, 68, 68);
+          font-style: normal;
+          font-variant: normal;
+          text-transform: uppercase;
+          font-size: 40px
+        }
+
+        .premiers ul li a,.shows ul li a{
+          font-size: 30px;
+          text-decoration: none;
+          font-family: Arial, Helvetica, sans-serif;
+          color: #2F2F2F;
+        }
+
+        .premiers ul li label,.shows ul li label{
+          font-size: 30px;
+          text-decoration: none;
+          font-family: Arial, Helvetica, sans-serif;
+          color: #2F2F2F;
+          margin-left: 400px;
+        }
+        
+        .line{
+          width: 1172px;
+          height:41px;
+          background: #2F2F2F;
+          float: left;
+        }
+
+        .videos h1{
+          float: left;
+          font-family: Arial, Helvetica, sans-serif;
+          color: #2F2F2F;
+          font-weight: 700;
+          text-decoration: overline solid rgb(68, 68, 68);
+          font-style: normal;
+          font-variant: normal;
+          text-transform: uppercase;
+          font-size: 42px;
+          margin-top: 0px;
+          margin-left: 20px;
+          margin-bottom: 0px;
+          height: 41px;
+        }
+
+        .videos iframe{
+          float: left;
+          margin-left: 24px;
+          margin-top: 24px;
+          width: 475px;
+        }
+        .maincontent2{
+          padding-bottom: 50%;
+        }
+        .searchbtn2{
+          color:#a49053;
+          width: 1px;
+          height:1px;
+          background-color:#2f2f2f;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          margin-left:83%;
+          position: absolute;
+          top:72px;
+          border-radius: 50%;
+        }
+       .footer-bottom{
+          color:white;
+          width:100%;
+          text-align: center;
+          bottom: -1px;
+          left: 0px;
+          height: 50px;
+          padding-top: 20px;
+          position: absolute;
+          font-size:15px;
+          font-family: B612;
+        }
+        .commentandratingbtn{
+          height: 50px;
+          width: 100px;
+          border: none;      
+          color:#fff;
+          background-color: #282828;
+          margin-top: 20px;
+          font-family: arial;
+        }
+        .Comment-main
+        {
+          margin-left:260px;
+          margin-top:100px;
+          border:2px solid black;
+          width: 70%;
+          background-color: #ddd;
+          
+        }
+        .comment-form-content
+        {
+          margin-top:20px;
+          margin-left:150px;
+        }
+        .Comment-main .btn-comment-submit
+        {
+          margin-right: 410px;
+          margin-left:130px;
+          border-radius: 24px;
+          border: 0;
+          display: block;
+           text-align: center;
+          border: 2px solid black;
+          background-color: white;
+          width: 500px;
+          height: 35px;
+          outline: none;
+          border-radius: 24px;
+          transition: 0.25s;
+          margin-bottom:30px;
+          cursor: pointer;
+          font-size:25px;
+        }
+        .user-comments-box
+        {
+          margin-left:35px;
+          border:2px solid black;
+          margin-top:40px;
+          margin-right:35px;
+          margin-bottom:50px;
+          background-color:#ddd;
+
+        }
+        /*Contact-us form */
+        .btn-comment-submit:hover
+        {
+          background-color: black;
+          color:white;
+        }
+        .Comment-main .comment-text
+        {
+          margin-top:10px;
+          margin-left:10px;
+          margin-bottom:20px;
+          border-radius: 24px;
+          border:2px solid black;
+          outline: none;
+        }
+        .comment-movie-name-label
+        {
+          margin-left:335px;
+          font-size: 25px;
+        }
+        .comment-movie-comment-label
+        {
+          margin-left:290px;
+          font-size: 25px;
+          bottom:100px;
+          
+        }
+        .Comment-main input[type="text"]
+        {
+          border: 0;
+          background: none;
+          display: block;
+          text-align: center;
+          border: 2px solid black;
+          width: 500px;
+          height: 30px;
+          outline: none;
+          border-radius: 24px;
+          transition: 0.25s;
+          margin-bottom: 20px;
+          background-color:white;
+          margin-left:120px;
+          margin-top:10px;
+          
+        }
+        .comment-info
+        {
+          margin-left:520px;
+          font-size: 24px;
+          border:2px solid black;
+          max-width: 600px;
+
+        }
+
+        .Comment-main input[type="text"]:focus
+        {
+          border-color: violet;
+          margin-left: 200px;;
+          
+        }
+        .rate-label
+        {
+          margin-left:320px;
+          margin-bottom: 20px;
+          margin-top:20px;
+          font-size:25px;
+        }
+        .label-comment
+        {
+          margin-bottom: 20px;
+          margin-top:20px;
+        }
+        .movie-rating
+        {
+          margin-bottom:30px;
+          margin-left:280px;
+          font-size :30px;
+          width: 200px;
+          border-radius: 24px;
+          outline: none;
+          border: 2px solid black;
+        }
+        .Delalaktas{
+          display:flex;
+          flex-direction: column;
+          justify-content: flex-end;
+          line-height: 1.6;  
+          color: white;
+          background:dimgray;
+          place-items: center;
+          border: 4px solid black;
+          margin-left: 30%;
+          max-width: 600px;
+          margin-bottom:40px; 
+          margin-top:30px;
+          padding-right:10px;
+          padding-left:10px;
+        }
+        .Tsenkonedelchev{
+          display:flex;
+          flex-direction: column;
+          justify-content: flex-end;
+         line-height: 1.6;  
+         margin-bottom: 20px;
+         color:black;
+         background:gold;
+         border: 4px solid black;
+         place-items: center;
+         max-width: 600px;
+         margin-bottom:0px;
+         margin-left:30%;
+         padding-right:10px;
+         padding-left:10px;
+        }
+       .socialmedia-list{
+
+        list-style: none;;
+        display: flex;
+         width: 150px;
+        padding:0;
+        justify-content: space-around ;
+        margin-top:20px;
+        margin-right:0px;
+        margin-left:45px;
+       }
+       .socialitems{
+         color:black;
+         opacity: 0.5;         
+         font-size: 45px;
+         margin-right:50px;
+        
+       }
+       .socialitems:hover,
+       .socialitems:focus{
+        opacity: 2;
+       }
+       .imgprofile{
+        border-radius: 50%;
+        margin-top: 10px;
+        border: 4px solid white;
+       } 
+     
+       .contact input[type="text"]
+       {
+        border: 0;
+        background: none;
+        display: block;
+        text-align: center;
+        border: 2px solid black;
+        width: 500px;
+        height: 35px;
+        outline: none;
+        border-radius: 24px;
+        transition: 0.25s;
+        margin-bottom: 20px;
+       }
+       .contact input[type="text"]:focus
+       {
+        margin-right: 50px;
+        margin-left: 50px;
+        border-color: violet;
+       }
+       .contact input[type="email"]
+       {
+        border: 0;
+        background: none;
+        display: block;
+        text-align: center;
+        border: 2px solid black;
+        width: 500px;
+        height: 35px;
+        outline: none;
+        border-radius: 24px;
+        transition: 0.25s;
+        margin-bottom: 20px;
+       }
+       .contact input[type = "Email"]:focus{
+        margin-right: 50px;
+        margin-left: 50px;
+        border-color: violet;
+      }
+       .Message-contact
+       {
+        border: 0;
+        background: none;
+        display: block;
+        border: 2px solid black;
+        width: 500px;
+        outline: none;
+        border-radius: 12px;
+        transition: 0.25s;
+        margin-bottom: 20px;
+       }
+       .Message-contact:focus
+       {
+        margin-right: 50px;
+        margin-left: 50px;
+        border-color: violet;
+       }
+       .container-contact-form
+       {
+        max-width: 1000px;
+        display: flex;
+        margin: 50px 263px;
+        justify-content: space-around;  
+          
+       }
+       .maincontent-contact
+       {
+        padding-bottom: 230px;
+
+       }
+       .contact input[type="Submit"]
+       {
+        border: 0;
+        display: block;
+        text-align: center;
+        border: 2px solid black;
+        width: 500px;
+        height: 35px;
+        outline: none;
+        border-radius: 24px;
+        transition: 0.25s;
+        margin-bottom: 20px;
+       }
+       
+       .contact input[type="Submit"]:hover
+       {
+         background: black;
+         color:white;
+       }
+       .status-contact
+       {
+         margin-left: 150px;
+       }
+       .Contact-us-form-name 
+       {
+        margin-left: 190px;
+       }
+       
+ 
+       
+
+
+ /*---------------------------------------------------*/
+
+          .title-signup{
+            text-align: center;
+            font-size: 26px;
+            font-family: arial;
+            color: #111;
+          }
+          .form-signup {
+            margin: 0 auto;
+            padding-top: 20px;
+            width:200px;
+            position: relative;
+            margin-left:550px;
+          }
+
+          .form-signup input {
+            width: calc(200% - 0px);
+            height: 30px;
+            padding: 0 15px;
+            margin-bottom: 20px;
+            border: 1px solid #CCC;
+            border-radius: 4px;
+            font-family: arial;
+            margin-right:300px;
+            border-radius: 24px;
+            background-color: white;
+            border: 2px solid black;
+            outline: none;
+            
+          }
+
+          .form-signup button {
+            display: block;
+            height: 40px;
+            padding: 0 10px;
+            margin: 0 auto;
+            border: none;
+            font-size: 14px;
+            color: black;
+            text-transform: uppercase;
+            margin-left:75px;
+            width: 300px;
+            border-radius: 24px;
+            border: 2px solid black;
+          }
+          .form-signup button:hover
+          {
+            background: black;
+            color:white;
+            cursor: pointer;
+          }
+          .signuperror {
+            padding-top: 14px;
+            font-family: arial;
+            font-size: 16px;
+            color: red;
+            text-align: center;
+          }
+
+          .signupsuccess {
+            padding-top: 14px;
+            font-family: arial;
+            font-size: 16px;
+            color: green;
+            text-align: center;
+          }
+          .signup-info
+          {
+            margin-left:620px;
+            font-size:20px;
+            border:2px solid black;
+            max-width: 300px;
+            
+          }
+          .Login-form
+          {
+            margin: 0 auto;
+            padding-top: 10px;
+            width:200px;
+            position: relative;
+            margin-left:550px;
+            margin-bottom:40px;
+          }
+          .login-info
+          {
+            text-align: center;
+            margin-bottom: 20px;
+          }
+          .Login-form button {
+            display: block;
+            height: 40px;
+            padding: 0 10px;
+            margin: 0 auto;
+            border: none;
+            font-size: 14px;
+            color: black;
+            text-transform: uppercase;
+            margin-left:70px;
+            width: 300px;
+            border-radius: 24px;
+            border: 2px solid black;
+          }
+          .Login-form button:hover
+          {
+            background: black;
+            color:white;
+            cursor: pointer;
+          }
+          .Dont-have-account
+          { 
+            margin-left:665px;
+            
+          }
+          
+          .Login-form input {
+            width: calc(200% - 0px);
+            height: 30px;
+            padding: 0 15px;
+            margin-bottom: 20px;
+            border: 1px solid #CCC;
+            border-radius: 4px;
+            font-family: arial;
+            margin-right:300px;
+            border-radius: 24px;
+            background-color: white;
+            border: 2px solid black;
+            outline: none;
+            
+          }
+          .Login-title{
+            margin-left:175px;
+            margin-bottom:40px;
+            font-size: 26px;
+            font-family: arial;
+            color: #111;
+          }
+
+        /*---------------------------------------------------------01.10.2019--------------------------------------------*/
+        
+        .card-area{
+          display: flex;
+          flex-direction: column;
+          margin: 10% auto;
+          box-shadow: 0px 2px 20px rgba(0,0,0,0.5);
+          background: #fff;
+          line-height: 1.5;
+          border-radius: 5px;
+          overflow: hidden;
+          z-index: 0;
+        }
+        .top-trailers-title
+        {
+          padding-top:33%;
+        }
+
+        .card-area:hover .sin-img{
+          transform: scale(1.1)
+        }
+
+        .card-area .sin-img{
+          position: absolute;
+          top: 0;
+          right: 0;
+          bottom: 0;
+          left: 0;
+          -webkit-background-size: cover;
+          background-size:cover;
+          background-position: center;
+          transition: 0.9s;
+        }
+
+        .card-area .img-area{
+          position:relative;
+          z-index: 0;
+          height:200px;
+        }
+
+        .card-area .img-text{
+          padding: 1rem;
+          background: #fff;
+          position: relative;
+          z-index: 1;
+        }
+
+        .card-area .img-text h1{
+          line-height: 1;
+          margin: 0;
+          font-size:1.6rem;
+        }
+
+        .card-area .img-text h2{
+          font-size: 20px;
+          font-weight: 700;
+          text-transform: uppercase;
+          color:#a49053;
+          margin-top: 10px;
+        }
+
+        .account{
+          background: url(images/background.png);
+        }
+        .signinfo
+        {
+          margin-left:200px;
+          margin-top:20px;
+        }
+
+        .card-area{
+          flex-direction: row;
+          max-width:800px;
+          min-height: 600px;
+        }
+
+        .card-area .img-area{
+          flex-basis: 50%;
+          height: auto;
+        }
+
+        .card-area .img-text{
+          flex-basis: 60%;
+        }
+
+        .card-area .img-text::before{
+<<<<<<< HEAD
+          -webkit-transform: skewX(3deg);
+          transform: skewX(3deg);
+          content: '';
+          background:#fff;
+          width: 40px;
+=======
+          -webkit-transform: skewX(2deg);
+          transform: skewX(2deg);
+          content: '';
+          background:#fff;
+          width: 30px;
+>>>>>>> 8166ec4ab48b4cc67a086cdfcbccbb4e9261b898
+          position: absolute;
+          left:-10px;
+          top: 0px;
+          bottom: 0;
+          z-index: -1;
+        }
+
+
+        

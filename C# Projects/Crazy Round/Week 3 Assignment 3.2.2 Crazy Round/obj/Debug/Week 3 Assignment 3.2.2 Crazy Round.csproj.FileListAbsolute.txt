@@ -1,0 +1,10 @@
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\Week 3 Assignment 3.2.2 Crazy Round\Week 3 Assignment 3.2.2 Crazy Round\bin\Debug\Week 3 Assignment 3.2.2 Crazy Round.exe.config
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\Week 3 Assignment 3.2.2 Crazy Round\Week 3 Assignment 3.2.2 Crazy Round\bin\Debug\Week 3 Assignment 3.2.2 Crazy Round.exe
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\Week 3 Assignment 3.2.2 Crazy Round\Week 3 Assignment 3.2.2 Crazy Round\bin\Debug\Week 3 Assignment 3.2.2 Crazy Round.pdb
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\Week 3 Assignment 3.2.2 Crazy Round\Week 3 Assignment 3.2.2 Crazy Round\obj\Debug\Week 3 Assignment 3.2.2 Crazy Round.csprojAssemblyReference.cache
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\Week 3 Assignment 3.2.2 Crazy Round\Week 3 Assignment 3.2.2 Crazy Round\obj\Debug\Week_3_Assignment_3._2._2_Crazy_Round.Form1.resources
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\Week 3 Assignment 3.2.2 Crazy Round\Week 3 Assignment 3.2.2 Crazy Round\obj\Debug\Week_3_Assignment_3._2._2_Crazy_Round.Properties.Resources.resources
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\Week 3 Assignment 3.2.2 Crazy Round\Week 3 Assignment 3.2.2 Crazy Round\obj\Debug\Week 3 Assignment 3.2.2 Crazy Round.csproj.GenerateResource.cache
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\Week 3 Assignment 3.2.2 Crazy Round\Week 3 Assignment 3.2.2 Crazy Round\obj\Debug\Week 3 Assignment 3.2.2 Crazy Round.csproj.CoreCompileInputs.cache
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\Week 3 Assignment 3.2.2 Crazy Round\Week 3 Assignment 3.2.2 Crazy Round\obj\Debug\Week 3 Assignment 3.2.2 Crazy Round.exe
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\Week 3 Assignment 3.2.2 Crazy Round\Week 3 Assignment 3.2.2 Crazy Round\obj\Debug\Week 3 Assignment 3.2.2 Crazy Round.pdb

@@ -1,0 +1,10 @@
+C:\Users\Bilal Aktas\Desktop\pcs2---assignments-master\3.2.5 - Administration extended\bin\Debug\3.2.4 - Administration.exe.config
+C:\Users\Bilal Aktas\Desktop\pcs2---assignments-master\3.2.5 - Administration extended\bin\Debug\3.2.4 - Administration.exe
+C:\Users\Bilal Aktas\Desktop\pcs2---assignments-master\3.2.5 - Administration extended\bin\Debug\3.2.4 - Administration.pdb
+C:\Users\Bilal Aktas\Desktop\pcs2---assignments-master\3.2.5 - Administration extended\obj\Debug\3.2.4 - Administration.csprojAssemblyReference.cache
+C:\Users\Bilal Aktas\Desktop\pcs2---assignments-master\3.2.5 - Administration extended\obj\Debug\_3._2._4___Administration.Form1.resources
+C:\Users\Bilal Aktas\Desktop\pcs2---assignments-master\3.2.5 - Administration extended\obj\Debug\_3._2._4___Administration.Properties.Resources.resources
+C:\Users\Bilal Aktas\Desktop\pcs2---assignments-master\3.2.5 - Administration extended\obj\Debug\3.2.4 - Administration.csproj.GenerateResource.cache
+C:\Users\Bilal Aktas\Desktop\pcs2---assignments-master\3.2.5 - Administration extended\obj\Debug\3.2.4 - Administration.csproj.CoreCompileInputs.cache
+C:\Users\Bilal Aktas\Desktop\pcs2---assignments-master\3.2.5 - Administration extended\obj\Debug\3.2.4 - Administration.exe
+C:\Users\Bilal Aktas\Desktop\pcs2---assignments-master\3.2.5 - Administration extended\obj\Debug\3.2.4 - Administration.pdb

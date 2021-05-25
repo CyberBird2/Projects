@@ -1,0 +1,10 @@
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\Week 3 Assignment 3.2.3 Increment\Week 3 Assignment 3.2.3 Increment\bin\Debug\Week 3 Assignment 3.2.3 Increment.exe.config
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\Week 3 Assignment 3.2.3 Increment\Week 3 Assignment 3.2.3 Increment\bin\Debug\Week 3 Assignment 3.2.3 Increment.exe
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\Week 3 Assignment 3.2.3 Increment\Week 3 Assignment 3.2.3 Increment\bin\Debug\Week 3 Assignment 3.2.3 Increment.pdb
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\Week 3 Assignment 3.2.3 Increment\Week 3 Assignment 3.2.3 Increment\obj\Debug\Week 3 Assignment 3.2.3 Increment.csprojAssemblyReference.cache
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\Week 3 Assignment 3.2.3 Increment\Week 3 Assignment 3.2.3 Increment\obj\Debug\Week_3_Assignment_3._2._3_Increment.BankAccountManagement.resources
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\Week 3 Assignment 3.2.3 Increment\Week 3 Assignment 3.2.3 Increment\obj\Debug\Week_3_Assignment_3._2._3_Increment.Properties.Resources.resources
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\Week 3 Assignment 3.2.3 Increment\Week 3 Assignment 3.2.3 Increment\obj\Debug\Week 3 Assignment 3.2.3 Increment.csproj.GenerateResource.cache
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\Week 3 Assignment 3.2.3 Increment\Week 3 Assignment 3.2.3 Increment\obj\Debug\Week 3 Assignment 3.2.3 Increment.csproj.CoreCompileInputs.cache
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\Week 3 Assignment 3.2.3 Increment\Week 3 Assignment 3.2.3 Increment\obj\Debug\Week 3 Assignment 3.2.3 Increment.exe
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\Week 3 Assignment 3.2.3 Increment\Week 3 Assignment 3.2.3 Increment\obj\Debug\Week 3 Assignment 3.2.3 Increment.pdb

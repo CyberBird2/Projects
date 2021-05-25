@@ -1,0 +1,10 @@
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\2.2.4 - ALaCarte.Pt1\bin\Debug\2.2.4 - ALaCarte.Pt1.exe.config
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\2.2.4 - ALaCarte.Pt1\bin\Debug\2.2.4 - ALaCarte.Pt1.exe
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\2.2.4 - ALaCarte.Pt1\bin\Debug\2.2.4 - ALaCarte.Pt1.pdb
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\2.2.4 - ALaCarte.Pt1\obj\Debug\2.2.4 - ALaCarte.Pt1.csprojAssemblyReference.cache
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\2.2.4 - ALaCarte.Pt1\obj\Debug\_2._2._4___ALaCarte.Pt1.Form1.resources
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\2.2.4 - ALaCarte.Pt1\obj\Debug\_2._2._4___ALaCarte.Pt1.Properties.Resources.resources
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\2.2.4 - ALaCarte.Pt1\obj\Debug\2.2.4 - ALaCarte.Pt1.csproj.GenerateResource.cache
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\2.2.4 - ALaCarte.Pt1\obj\Debug\2.2.4 - ALaCarte.Pt1.csproj.CoreCompileInputs.cache
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\2.2.4 - ALaCarte.Pt1\obj\Debug\2.2.4 - ALaCarte.Pt1.exe
+C:\Users\Bilal Aktas\Desktop\Fontys Lessons Subjects\PCS2\Assignments\2.2.4 - ALaCarte.Pt1\obj\Debug\2.2.4 - ALaCarte.Pt1.pdb

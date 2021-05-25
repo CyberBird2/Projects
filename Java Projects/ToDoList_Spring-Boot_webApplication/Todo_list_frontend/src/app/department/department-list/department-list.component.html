@@ -1,0 +1,64 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
+<table class="headerTable">
+  <div class="title">
+    <h2>Departments</h2>
+  </div>
+  <td>
+    <div class="form-group has-feedback has-search" style="margin-top: 15px;">
+      <span class="glyphicon glyphicon-search form-control-feedback"></span>
+      <input class="form-control" type="text" name="search" [(ngModel)]="searchText" autocomplete="off" placeholder="Searching department by name"/>
+    </div>
+  </td>
+</table>
+<!--Display the list of department -->
+<!--  Table-->
+<table class="table">
+  <thead>
+  <tr>
+    <th scope="col">#</th>
+    <th scope="col">Name</th>
+    <th scope="col">Location</th>
+    <th scope="col">Details</th>
+
+  </tr>
+  </thead>
+  <tbody *ngFor="let department of departments | filter:searchText">
+  <th class="row-table" scope="row">{{department.id}}</th>
+  <th class="row-table" scope="row">{{department.name}}</th>
+  <th class="row-table" scope="row">{{department.location}}</th>
+  <td class="row-table"> <button class="btn btn-light btn-outline-dark" data-toggle="modal" data-target="departmentDetail"
+                                 [class.selected]="department === currentDepartment"
+                                 (click)="getDepartment(department.id)"> Details</button>
+  </td>
+  </tbody>
+</table>
+
+<div style="width: 400px; margin: auto;">
+  <div *ngIf="currentDepartment" class="edit-form">
+    <form>
+
+      <div class="form-group">
+        <label for="name">Name</label>
+        <input type="text" class="form-control" id="name"
+          [(ngModel)]="currentDepartment.name" name="name"/>
+      </div>
+      <div class="form-group">
+        <label for="location">Location</label>
+        <input type="text" class="form-control" id="location"
+          [(ngModel)]="currentDepartment.location" name="location"/>
+      </div>
+
+    </form>
+    <button class="badge badge-danger mr-2"
+            (click)="deleteDepartment()">Delete </button>
+
+    <button type="submit" class="badge badge-success"
+      (click)="updateDepartment()"> Update </button>
+       <p>{{ message }}</p>
+  </div>
+
+</div>
+
+
+

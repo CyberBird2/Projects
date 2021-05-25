@@ -1,0 +1,58 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+<div class="role_container">
+<table class="headerTable">
+<div class="title">
+  <h2>Roles</h2>
+</div>
+<td>
+  <div class="form-group has-feedback has-search" style="margin-top: 15px;">
+    <span class="glyphicon glyphicon-search form-control-feedback"></span>
+    <input class="form-control" type="text" name="search" [(ngModel)]="searchText" autocomplete="off" placeholder="Searching roles  by name"/>
+  </div>
+</td>
+</table>
+<table class="table">
+  <thead>
+  <tr>
+    <th scope="col">#</th>
+    <th scope="col">Name</th>
+    <th scope="col">Details</th>
+
+  </tr>
+  </thead>
+  <tbody *ngFor="let role of roles | filter:searchText">
+  <th class="row-table" scope="row">{{role.id}}</th>
+  <th class="row-table" scope="row">{{role.name}}</th>
+  <td class="row-table"> <button class="btn btn-light btn-outline-dark" data-toggle="modal" data-target="#roleDetial"
+                                [class.selected]="role === currentRole"
+                                (click)="getRole(role.id)"> Details</button>
+  </td>
+  </tbody>
+
+</table>
+
+
+<div style="width: 400px; margin: auto;">
+  <div *ngIf="currentRole" class="edit-form">
+
+    <form>
+
+      <div class="form-group">
+        <label for="name">Name</label>
+        <input type="text" class="form-control" id="name"
+          [(ngModel)]="currentRole.name" name="name"/>
+      </div>
+
+    </form>
+
+    <button class="badge badge-danger mr-2" (click)="deleteRole()">
+      Delete
+    </button>
+
+    <button type="submit" class="badge badge-success"
+            (click)="updateRole()"> Update </button>
+    <p>{{ message }}</p>
+  </div>
+
+</div>
+</div>

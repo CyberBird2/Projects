@@ -1,0 +1,52 @@
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
+<div>
+    <nav class="navbar navbar-expand navbar-dark bg-dark">
+      <div class="navbar-nav mr-auto">
+        <span class="example-fill-remaining-space"></span>
+        <span class="align-center"></span>
+        <span class="example-spacer"></span>
+
+        <ul class="navbar-nav ml-auto">
+        <li class="nav-item">
+          <a *ngIf="loginService.isUserLoggedIn()" routerLink="roles" routerLinkActive="active" class="nav-link">Role</a>
+          <a *ngIf="loginService.isUserLoggedIn()" routerLink="addRole" routerLinkActive="active" class="nav-link">Add Role</a>
+        </li>
+        <li class="nav-item">
+          <a *ngIf="loginService.isUserLoggedIn()" routerLink="tasks" routerLinkActive="active"class="nav-link">Task</a>
+
+          <a *ngIf="loginService.isUserLoggedIn()" routerLink="addTask" routerLinkActive="active" class="nav-link">Add Task</a>
+        </li>
+        <li class="nav-item">
+          <a *ngIf="loginService.isUserLoggedIn()" routerLink="employees" routerLinkActive="active" class="nav-link">Employee</a>
+
+          <a *ngIf="loginService.isUserLoggedIn()" routerLink="addEmployee" routerLinkActive="active" class="nav-link">Add Employee</a>
+        </li>
+
+        <li class="nav-item">
+          <a *ngIf="loginService.isUserLoggedIn()" routerLink="departments" routerLinkActive="active" class="nav-link">Department</a>
+
+          <a *ngIf="loginService.isUserLoggedIn()" routerLink="AddDepartment" routerLinkActive="active" class="nav-link">Add Department</a>
+        </li>
+        </ul>
+        <div>
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item">
+              <a *ngIf="loginService.isUserLoggedIn()" routerLink="/login" routerLinkActive="active" class="nav-link">Login</a>
+
+              <a *ngIf="loginService.isUserLoggedIn()" routerLink="/logout" routerLinkActive="active" class="nav-link">LogOut </a>
+            </li>
+            <li class="nav-item">
+              <a *ngIf="loginService.isUserLoggedIn()" routerLink="notifications" routerLinkActive="active" class="nav-link">Notification</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <div class="container mt-3">
+      <router-outlet></router-outlet>
+    </div>
+  </div>
+
